@@ -1,14 +1,5 @@
 #!/usr/bin/env python3
-"""
-Upcoming Breezers - cloud scraper (Racing Post B2B API).
-
-Runs once: fetches today's + tomorrow's GB/IRE racecards, matches each runner's
-sire + dam + foaling-year against the breeze-up database, merges non-destructively
-with the existing data (never erases a future runner), and writes breezer_matches.json.
-
-Designed to run in GitHub Actions on a schedule. Keys come from environment
-variables RP_API_KEY / RP_JWT_KEY (stored as GitHub Secrets).
-"""
+"""Upcoming Breezers - cloud scraper (Racing Post B2B API)."""
 
 import os
 import re
@@ -21,7 +12,7 @@ import urllib.error
 
 RP_API_KEY = os.environ.get("RP_API_KEY", "")
 RP_JWT_KEY = os.environ.get("RP_JWT_KEY", "")
-EXPECTED_FOALING_YEAR = 2024   # 2026 breeze-up crop = 2yos foaled 2024
+EXPECTED_FOALING_YEAR = 2024
 
 DB_PATH = "breezers_db.json"
 OUT_PATH = "breezer_matches.json"
@@ -184,7 +175,7 @@ def main():
         print("[ERROR] RP_API_KEY / RP_JWT_KEY not set.")
         sys.exit(1)
 
-    with open(DB_PATH, encoding="utf-8") as f:
+    with open(DB_PATH, encoding="utf-8-sig") as f:
         db = json.load(f)
     lookup = {}
     for b in db.get("breezers", []):
@@ -202,13 +193,12 @@ def main():
     results += get_matches_for_day(today.strftime("%Y-%m-%d"), "today", lookup)
     results += get_matches_for_day(tomorrow.strftime("%Y-%m-%d"), "tomorrow", lookup)
 
-    # --- Non-destructive merge: keep previously-found FUTURE runners ---
     now = datetime.now().astimezone()
     merged = {match_key(m): m for m in results}
 
     if os.path.exists(OUT_PATH):
         try:
-            with open(OUT_PATH, encoding="utf-8") as f:
+            with open(OUT_PATH, encoding="utf-8-sig") as f:
                 prev = json.load(f)
             for pm in prev.get("matches", []):
                 k = match_key(pm)
