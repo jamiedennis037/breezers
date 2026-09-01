@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Upcoming Breezers</title>
+<style>
+  :root{--hbg:#0a1628;--blue:#003087;--border:#dde1e7;--text:#1a1a2e;--sub:#555;}
+  *{box-sizing:border-box;margin:0;padding:0;}
+  body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;font-size:14px;background:#f0f2f5;color:var(--text);}
+  header{background:var(--hbg);color:#fff;padding:14px 22px;display:flex;align-items:flex-end;gap:16px;border-bottom:3px solid var(--blue);}
+  .logo{font-size:20px;font-weight:800;}.logo span{color:#f39c12;}
+  .sub{font-size:11px;color:#a0aec0;padding-bottom:1px;}
+  .ts{margin-left:auto;font-size:11px;color:#a0aec0;text-align:right;}
+  .kpis{display:flex;gap:10px;padding:12px 22px;background:#fff;border-bottom:1px solid var(--border);flex-wrap:wrap;}
+  .kpi{display:flex;flex-direction:column;align-items:center;padding:7px 16px;border-radius:7px;border:1px solid var(--border);background:#fafbfc;min-width:90px;}
+  .kpi .v{font-size:22px;font-weight:700;color:var(--blue);}
+  .kpi .l{font-size:10px;color:var(--sub);margin-top:2px;text-align:center;}
+  .filters{display:flex;gap:8px;padding:9px 22px;background:#fff;border-bottom:1px solid var(--border);align-items:center;flex-wrap:wrap;}
+  .filters label{display:inline-flex;align-items:center;gap:4px;font-size:12px;cursor:pointer;padding:3px 8px;border-radius:4px;border:1px solid var(--border);background:#fafbfc;}
+  .tw{padding:10px 22px 18px;overflow-x:auto;}
+  table{width:100%;border-collapse:collapse;background:#fff;border-radius:9px;overflow:hidden;box-shadow:0 1px 4px rgba(0,0,0,.07);}
+  thead tr{background:var(--hbg);color:#c8d6e5;font-size:11px;text-transform:uppercase;letter-spacing:.5px;}
+  thead th{padding:9px 11px;text-align:left;font-weight:600;white-space:nowrap;}
+  tbody tr{border-bottom:1px solid var(--border);}
+  tbody tr:hover{background:#f7f9fc;}
+  tbody td{padding:9px 11px;vertical-align:middle;}
+  .time{font-weight:700;font-size:14px;}
+  .horse{font-weight:700;font-size:15px;}
+  .ped{font-size:11px;color:var(--sub);}
+  .badge{display:inline-block;font-size:11px;font-weight:700;padding:2px 7px;border-radius:3px;}
+  .uk{background:#dbeafe;color:#1e40af;} .ire{background:#dcfce7;color:#166534;}
+  .sale-craven{background:#fce4ec;color:#880e4f;} .sale-arqana{background:#e3f2fd;color:#0d47a1;}
+  .sale-goffs{background:#e8f5e9;color:#1b5e20;} .sale-tg{background:#fff3e0;color:#e65100;} .sale-ti{background:#f3e5f5;color:#6a1b9a;}
+  .rank{font-size:20px;font-weight:800;color:var(--blue);}
+  .rankbadge{display:inline-block;min-width:34px;text-align:center;font-size:16px;font-weight:800;padding:3px 9px;border-radius:6px;}
+  .rank-green{background:#dcfce7;color:#166534;}
+  .rank-amber{background:#fef3c7;color:#92400e;}
+  .rank-purple{background:#ede9fe;color:#6b21a8;}
+  .rank-red{background:#fee2e2;color:#991b1b;}
+  .rank-none{color:#bbb;font-size:16px;font-weight:700;}
+  .cat-handicap{background:#fef9c3;color:#854d0e;} .cat-maiden{background:#e3f2fd;color:#0d47a1;}
+  .cat-novice{background:#e0f2f1;color:#004d40;} .cat-other{background:#f4f6f7;color:#555;}
+  .empty{text-align:center;padding:40px;color:var(--sub);}
+  .mono{font-size:10px;color:#999;}
+  .tabs{display:flex;gap:2px;padding:0 22px;background:#fff;border-bottom:1px solid var(--border);}
+  .tab{padding:10px 20px;font-size:13px;font-weight:700;color:var(--sub);cursor:pointer;border:none;background:none;border-bottom:3px solid transparent;}
+  .tab:hover{color:var(--blue);}
+  .tab.active{color:var(--blue);border-bottom-color:var(--blue);}
+  .tab .cnt{display:inline-block;margin-left:6px;font-size:11px;background:#eef2f7;color:var(--sub);border-radius:10px;padding:1px 7px;}
+  .tab.active .cnt{background:var(--blue);color:#fff;}
+</style>
+</head>
+<body>
+<header>
+  <div>
+    <div class="logo"><span>Upcoming</span> Breezers</div>
+    <div class="sub">Breeze-up runners today &amp; tomorrow · UK &amp; Irish</div>
+  </div>
+  <div class="ts"><div id="updated">—</div><div>Auto-refreshes</div></div>
+</header>
+
+<div class="kpis">
+  <div class="kpi"><div class="v" id="kpi-total">—</div><div class="l" id="kpi-total-l">Breezers (Today)</div></div>
+  <div class="kpi"><div class="v" id="kpi-blacktype" style="color:#6a1b9a">—</div><div class="l">Black Type</div></div>
+  <div class="kpi"><div class="v" id="kpi-hcap" style="color:#854d0e">—</div><div class="l">Handicaps</div></div>
+  <div class="kpi"><div class="v" id="kpi-mdn" style="color:#0d47a1">—</div><div class="l">Maiden/Novice</div></div>
+</div>
+
+<div class="tabs">
+  <button class="tab active" id="tab-today" onclick="setDay('today')">Today <span class="cnt" id="cnt-today">0</span></button>
+  <button class="tab" id="tab-tomorrow" onclick="setDay('tomorrow')">Tomorrow <span class="cnt" id="cnt-tomorrow">0</span></button>
+</div>
+
+<div class="filters">
+  <span style="font-size:12px;color:var(--sub);">Sales:</span>
+  <label><input type="checkbox" class="sale-cb" value="Craven" checked onchange="render()"> Craven</label>
+  <label><input type="checkbox" class="sale-cb" value="Arqana" checked onchange="render()"> Arqana</label>
+  <label><input type="checkbox" class="sale-cb" value="Goffs" checked onchange="render()"> Goffs</label>
+  <label><input type="checkbox" class="sale-cb" value="Tatts Guineas" checked onchange="render()"> Tatts Guineas</label>
+  <label><input type="checkbox" class="sale-cb" value="Tatts Ireland" checked onchange="render()"> Tatts Ireland</label>
+</div>
+
+<div class="tw">
+  <table>
+    <thead><tr>
+      <th>Time</th><th>Course</th><th>Horse</th><th>Breeding</th><th>Sale</th><th>Lot</th><th>Overall Rank</th><th>Race Type</th>
+    </tr></thead>
+    <tbody id="tb"><tr><td colspan="8" class="empty">Loading…</td></tr></tbody>
+  </table>
+</div>
+
+<script>
+var BREEZER_DATA = null;
+
+function saleClass(s){
+  if(s==='Craven') return 'sale-craven';
+  if(s==='Arqana') return 'sale-arqana';
+  if(s==='Goffs') return 'sale-goffs';
+  if(s==='Tatts Guineas') return 'sale-tg';
+  if(s==='Tatts Ireland') return 'sale-ti';
+  return '';
+}
+function catClass(c){
+  if(c==='Handicap') return 'cat-handicap';
+  if(c==='Maiden') return 'cat-maiden';
+  if(c==='Novice') return 'cat-novice';
+  return 'cat-other';
+}
+function rankCell(r){
+  var n = parseInt(r,10);
+  if(isNaN(n)) return '<span class="rank-none">—</span>';
+  var cls;
+  if(n<=20) cls='rank-green';
+  else if(n<=40) cls='rank-amber';
+  else if(n<=75) cls='rank-purple';
+  else cls='rank-red';
+  return '<span class="rankbadge '+cls+'">'+n+'</span>';
+}
+
+var activeDay = 'today';
+function setDay(d){
+  activeDay = d;
+  document.getElementById('tab-today').classList.toggle('active', d==='today');
+  document.getElementById('tab-tomorrow').classList.toggle('active', d==='tomorrow');
+  render();
+}
+function matchDay(m){ return m.day || 'today'; }
+
+function render(){
+  if(!BREEZER_DATA || !BREEZER_DATA.matches){ return; }
+  var activeSales = [];
+  document.querySelectorAll('.sale-cb').forEach(function(cb){ if(cb.checked) activeSales.push(cb.value); });
+
+  var saleFiltered = BREEZER_DATA.matches.filter(function(m){ return activeSales.indexOf(m.sale)>=0; });
+  document.getElementById('cnt-today').textContent = saleFiltered.filter(function(m){ return matchDay(m)==='today'; }).length;
+  document.getElementById('cnt-tomorrow').textContent = saleFiltered.filter(function(m){ return matchDay(m)==='tomorrow'; }).length;
+
+  var matches = saleFiltered.filter(function(m){ return matchDay(m)===activeDay; });
+  matches.sort(function(a,b){ return new Date(a.off_dt)-new Date(b.off_dt); });
+
+  var tb=document.getElementById('tb');
+  if(matches.length===0){ tb.innerHTML='<tr><td colspan="8" class="empty">No breezers found in '+(activeDay==='today'?'today\'s':'tomorrow\'s')+' races</td></tr>'; }
+  else {
+    var html='';
+    matches.forEach(function(m){
+      html+='<tr>'
+        +'<td class="time">'+m.off_time+'</td>'
+        +'<td>'+m.course+' <span class="badge '+(m.region==='IRE'?'ire':'uk')+'">'+m.region+'</span></td>'
+        +'<td class="horse">'+m.horse+'</td>'
+        +'<td class="ped">'+m.sire+' x '+m.dam+'</td>'
+        +'<td><span class="badge '+saleClass(m.sale)+'">'+m.sale+'</span></td>'
+        +'<td>'+m.lot+'</td>'
+        +'<td>'+rankCell(m.overall_rank)+'</td>'
+        +'<td><span class="badge '+catClass(m.race_cat)+'">'+m.race_cat+'</span></td>'
+        +'</tr>';
+    });
+    tb.innerHTML=html;
+  }
+
+  document.getElementById('kpi-total').textContent = matches.length;
+  document.getElementById('kpi-total-l').textContent = 'Breezers ('+(activeDay==='today'?'Today':'Tomorrow')+')';
+  document.getElementById('kpi-blacktype').textContent = matches.filter(function(m){ return m.race_cat==='Black Type'; }).length;
+  document.getElementById('kpi-hcap').textContent = matches.filter(function(m){ return m.race_cat==='Handicap'; }).length;
+  document.getElementById('kpi-mdn').textContent = matches.filter(function(m){ return m.race_cat==='Maiden'||m.race_cat==='Novice'; }).length;
+}
+
+function load(){
+  // Cache-bust so colleagues always get the freshest data file.
+  fetch('breezer_matches.json?t=' + Date.now())
+    .then(function(r){ if(!r.ok) throw new Error('no data'); return r.json(); })
+    .then(function(data){
+      BREEZER_DATA = data;
+      if(data.updated_at){
+        document.getElementById('updated').textContent = 'Updated ' + new Date(data.updated_at).toLocaleString('en-GB',{day:'2-digit',month:'short',hour:'2-digit',minute:'2-digit'});
+      }
+      render();
+    })
+    .catch(function(){
+      document.getElementById('tb').innerHTML = '<tr><td colspan="8" class="empty">No data yet. The daily update runs at 08:05 and 13:00 UK time.</td></tr>';
+    });
+}
+load();
+// Reload the page every 5 minutes so an open tab picks up the latest file.
+setInterval(function(){ location.reload(); }, 300000);
+</script>
+</body>
+</html>
