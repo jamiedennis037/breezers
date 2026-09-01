@@ -2,8 +2,7 @@ name: Refresh Breezers
 
 on:
   schedule:
-    - cron: "5 7 * * *"
-    - cron: "0 12 * * *"
+      - cron: "0 5 * * *"
   workflow_dispatch: {}
 
 permissions:
