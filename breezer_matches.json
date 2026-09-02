@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T16:19:41.617924+00:00",
+  "updated_at": "2026-09-02T05:11:52.857166+00:00",
   "match_count": 13,
   "matches": [
     {
@@ -18,7 +18,7 @@
       "lot": "196",
       "overall": "26.61",
       "overall_rank": "181",
-      "day": "tomorrow",
+      "day": "today",
       "match_type": "sire+dam+year"
     },
     {
@@ -37,7 +37,7 @@
       "lot": "193",
       "overall": "25.77",
       "overall_rank": "101",
-      "day": "tomorrow",
+      "day": "today",
       "match_type": "sire+dam+year"
     },
     {
@@ -56,7 +56,7 @@
       "lot": "344",
       "overall": "26.81",
       "overall_rank": "26",
-      "day": "tomorrow",
+      "day": "today",
       "match_type": "sire+dam+year"
     },
     {
@@ -75,7 +75,7 @@
       "lot": "206",
       "overall": "27.26",
       "overall_rank": "195",
-      "day": "tomorrow",
+      "day": "today",
       "match_type": "sire+dam+year"
     },
     {
@@ -94,7 +94,7 @@
       "lot": "46",
       "overall": "25.30",
       "overall_rank": "36",
-      "day": "tomorrow",
+      "day": "today",
       "match_type": "sire+dam+year"
     },
     {
@@ -113,7 +113,7 @@
       "lot": "226",
       "overall": "27.20",
       "overall_rank": "64",
-      "day": "tomorrow",
+      "day": "today",
       "match_type": "sire+dam+year"
     },
     {
@@ -132,7 +132,7 @@
       "lot": "117",
       "overall": "26.54",
       "overall_rank": "208",
-      "day": "tomorrow",
+      "day": "today",
       "match_type": "sire+dam+year"
     },
     {
@@ -151,7 +151,7 @@
       "lot": "200",
       "overall": "24.92",
       "overall_rank": "17",
-      "day": "tomorrow",
+      "day": "today",
       "match_type": "sire+dam+year"
     },
     {
@@ -170,7 +170,7 @@
       "lot": "29",
       "overall": "4.43",
       "overall_rank": "83",
-      "day": "tomorrow",
+      "day": "today",
       "match_type": "sire+dam+year"
     },
     {
@@ -189,7 +189,7 @@
       "lot": "84",
       "overall": "25.22",
       "overall_rank": "31",
-      "day": "tomorrow",
+      "day": "today",
       "match_type": "sire+dam+year"
     },
     {
@@ -208,7 +208,7 @@
       "lot": "94",
       "overall": "25.89",
       "overall_rank": "117",
-      "day": "tomorrow",
+      "day": "today",
       "match_type": "sire+dam+year"
     },
     {
@@ -227,7 +227,7 @@
       "lot": "219",
       "overall": "25.94",
       "overall_rank": "1",
-      "day": "tomorrow",
+      "day": "today",
       "match_type": "sire+dam+year"
     },
     {
@@ -246,7 +246,7 @@
       "lot": "128",
       "overall": "4.47",
       "overall_rank": "113",
-      "day": "tomorrow",
+      "day": "today",
       "match_type": "sire+dam+year"
     }
   ]
