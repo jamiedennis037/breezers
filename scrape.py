@@ -10,8 +10,8 @@ from datetime import datetime, timedelta, date
 import urllib.request
 import urllib.error
 
-RP_API_KEY = os.environ.get("RP_API_KEY", "")
-RP_JWT_KEY = os.environ.get("RP_JWT_KEY", "")
+RP_API_KEY = os.environ.get("RP_API_KEY", "").strip()
+RP_JWT_KEY = os.environ.get("RP_JWT_KEY", "").strip()
 EXPECTED_FOALING_YEAR = 2024
 
 DB_PATH = "breezers_db.json"
