@@ -4353,12 +4353,12 @@
                      {
                          "lot":  "88",
                          "overall_rank":  "58",
-                         "sire":  "HOLY",
+                         "sire":  "HOLY ROMAN EMPEROR",
                          "overall":  "25.45",
                          "name":  "THE RESDEV ROMAN",
                          "sale":  "Goffs",
-                         "dam":  "ROMAN EMPEROR AMERIQUE",
-                         "pedigree_raw":  "Holy Roman Emperor (IRE) Amerique (GER)"
+                         "dam":  "AMERIQUE",
+                         "pedigree_raw":  "Holy Roman Emperor (IRE) / Amerique (GER)"
                      },
                      {
                          "lot":  "89",
@@ -4543,12 +4543,12 @@
                      {
                          "lot":  "110",
                          "overall_rank":  "122",
-                         "sire":  "BOLT",
+                         "sire":  "BOLT DORO",
                          "overall":  "25.91",
                          "name":  "",
                          "sale":  "Goffs",
-                         "dam":  "D ORO BLUE BERYL",
-                         "pedigree_raw":  "Bolt D\u0027oro (USA) Blue Beryl (USA)"
+                         "dam":  "BLUE BERYL",
+                         "pedigree_raw":  "Bolt D\u0027oro (USA) / Blue Beryl (USA)"
                      },
                      {
                          "lot":  "111",
@@ -6743,12 +6743,12 @@
                      {
                          "lot":  "295",
                          "overall_rank":  "6",
-                         "sire":  "MISS",
+                         "sire":  "BLUE POINT",
                          "overall":  "26.46",
-                         "name":  "",
+                         "name":  "SHE'S NICE",
                          "sale":  "Tatts Guineas",
-                         "dam":  "DEBBIE",
-                         "pedigree_raw":  "Miss Debbie (IRE)"
+                         "dam":  "WEARING WINGS",
+                         "pedigree_raw":  "Blue Point (IRE) / Wearing Wings (GB)"
                      },
                      {
                          "lot":  "297",
