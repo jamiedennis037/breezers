@@ -333,12 +333,12 @@
                      {
                          "lot":  "41",
                          "overall_rank":  "101",
-                         "sire":  "STARSPANGLEDBANNER MAID OF SPIRIT",
+                         "sire":  "STARSPANGLEDBANNER",
                          "overall":  "26.21",
                          "name":  "",
                          "sale":  "Craven",
-                         "dam":  "KNOCKANGLASS STABLES",
-                         "pedigree_raw":  "Starspangledbanner Maid of Spirit / Knockanglass Stables"
+                         "dam":  "MAID OF SPIRIT",
+                         "pedigree_raw":  "Starspangledbanner / Maid of Spirit"
                      },
                      {
                          "lot":  "42",
@@ -453,12 +453,12 @@
                      {
                          "lot":  "58",
                          "overall_rank":  "17",
-                         "sire":  "STARSPANGLEDBANNER MUTEELA",
+                         "sire":  "STARSPANGLEDBANNER",
                          "overall":  "25.40",
                          "name":  "",
                          "sale":  "Craven",
-                         "dam":  "C F BLOODSTOCK",
-                         "pedigree_raw":  "Starspangledbanner Muteela / C. F. Bloodstock"
+                         "dam":  "MUTEELA",
+                         "pedigree_raw":  "Starspangledbanner / Muteela"
                      },
                      {
                          "lot":  "59",
@@ -563,12 +563,12 @@
                      {
                          "lot":  "71",
                          "overall_rank":  "74",
-                         "sire":  "STARSPANGLEDBANNER OUREBI",
+                         "sire":  "STARSPANGLEDBANNER",
                          "overall":  "25.91",
                          "name":  "",
                          "sale":  "Craven",
-                         "dam":  "BEECHLEA BLOODSTOCK LTD",
-                         "pedigree_raw":  "Starspangledbanner Ourebi / Beechlea Bloodstock Ltd."
+                         "dam":  "OUREBI",
+                         "pedigree_raw":  "Starspangledbanner / Ourebi"
                      },
                      {
                          "lot":  "72",
@@ -763,12 +763,12 @@
                      {
                          "lot":  "95",
                          "overall_rank":  "94",
-                         "sire":  "STARSPANGLEDBANNER SCHOOL RUN",
+                         "sire":  "STARSPANGLEDBANNER",
                          "overall":  "26.15",
                          "name":  "",
                          "sale":  "Craven",
-                         "dam":  "GAYBROOK LODGE STUD",
-                         "pedigree_raw":  "Starspangledbanner School Run / Gaybrook Lodge Stud"
+                         "dam":  "SCHOOL RUN",
+                         "pedigree_raw":  "Starspangledbanner / School Run"
                      },
                      {
                          "lot":  "96",
@@ -777,8 +777,8 @@
                          "overall":  "25.21",
                          "name":  "PALA AURELIA",
                          "sale":  "Craven",
-                         "dam":  "SCREAM BLUE MURDER BUSHYPARK STABLES",
-                         "pedigree_raw":  "St Mark\u0027s Basilica / Scream Blue Murder \"Bushypark Stables"
+                         "dam":  "SCREAM BLUE MURDER",
+                         "pedigree_raw":  "St Mark\u0027s Basilica / Scream Blue Murder"
                      },
                      {
                          "lot":  "97",
@@ -843,22 +843,22 @@
                      {
                          "lot":  "106",
                          "overall_rank":  "98",
-                         "sire":  "STARSPANGLEDBANNER SNOWY",
+                         "sire":  "STARSPANGLEDBANNER",
                          "overall":  "26.18",
                          "name":  "",
                          "sale":  "Craven",
-                         "dam":  "DRUMMONA HOUSE",
-                         "pedigree_raw":  "Starspangledbanner Snowy / Drummona House"
+                         "dam":  "SNOWY",
+                         "pedigree_raw":  "Starspangledbanner / Snowy"
                      },
                      {
                          "lot":  "107",
                          "overall_rank":  "141",
-                         "sire":  "STARSPANGLEDBANNER SO DANDY",
+                         "sire":  "STARSPANGLEDBANNER",
                          "overall":  "27.05",
                          "name":  "",
                          "sale":  "Craven",
-                         "dam":  "BUSHYPARK STABLES",
-                         "pedigree_raw":  "Starspangledbanner So Dandy / Bushypark Stables"
+                         "dam":  "SO DANDY",
+                         "pedigree_raw":  "Starspangledbanner / So Dandy"
                      },
                      {
                          "lot":  "108",
@@ -933,12 +933,12 @@
                      {
                          "lot":  "115",
                          "overall_rank":  "35",
-                         "sire":  "STARSPANGLEDBANNER SWEET AFFECTION",
+                         "sire":  "STARSPANGLEDBANNER",
                          "overall":  "25.55",
                          "name":  "",
                          "sale":  "Craven",
-                         "dam":  "STATION YARD",
-                         "pedigree_raw":  "Starspangledbanner Sweet Affection / Station Yard"
+                         "dam":  "SWEET AFFECTION",
+                         "pedigree_raw":  "Starspangledbanner / Sweet Affection"
                      },
                      {
                          "lot":  "116",
@@ -1003,12 +1003,12 @@
                      {
                          "lot":  "123",
                          "overall_rank":  "59",
-                         "sire":  "STARSPANGLEDBANNER TIME WILL TELL",
+                         "sire":  "STARSPANGLEDBANNER",
                          "overall":  "25.80",
                          "name":  "",
                          "sale":  "Craven",
-                         "dam":  "MOCKLERSHILL",
-                         "pedigree_raw":  "Starspangledbanner Time Will Tell / Mocklershill"
+                         "dam":  "TIME WILL TELL",
+                         "pedigree_raw":  "Starspangledbanner / Time Will Tell"
                      },
                      {
                          "lot":  "124",
@@ -1223,12 +1223,12 @@
                      {
                          "lot":  "147",
                          "overall_rank":  "2",
-                         "sire":  "STARSPANGLEDBANNER BELICIOUS",
+                         "sire":  "STARSPANGLEDBANNER",
                          "overall":  "24.97",
                          "name":  "SENORITA BONITA",
                          "sale":  "Craven",
-                         "dam":  "EGMONT STUD",
-                         "pedigree_raw":  "Starspangledbanner Belicious / Egmont Stud"
+                         "dam":  "BELICIOUS",
+                         "pedigree_raw":  "Starspangledbanner / Belicious"
                      },
                      {
                          "lot":  "148",
@@ -1243,12 +1243,12 @@
                      {
                          "lot":  "149",
                          "overall_rank":  "148",
-                         "sire":  "STARSPANGLEDBANNER BEST OF MY LOVE",
+                         "sire":  "STARSPANGLEDBANNER",
                          "overall":  "27.59",
                          "name":  "",
                          "sale":  "Craven",
-                         "dam":  "LYNN LODGE STUD",
-                         "pedigree_raw":  "Starspangledbanner Best of My Love / Lynn Lodge Stud"
+                         "dam":  "BEST OF MY LOVE",
+                         "pedigree_raw":  "Starspangledbanner / Best of My Love"
                      },
                      {
                          "lot":  "150",
@@ -1433,12 +1433,12 @@
                      {
                          "lot":  "172",
                          "overall_rank":  "36",
-                         "sire":  "STARSPANGLEDBANNER DECCAN QUEEN",
+                         "sire":  "STARSPANGLEDBANNER",
                          "overall":  "25.57",
                          "name":  "",
                          "sale":  "Craven",
-                         "dam":  "KNOCKGRAFFON STABLES",
-                         "pedigree_raw":  "Starspangledbanner Deccan Queen / Knockgraffon Stables"
+                         "dam":  "DECCAN QUEEN",
+                         "pedigree_raw":  "Starspangledbanner / Deccan Queen"
                      },
                      {
                          "lot":  "173",
@@ -5828,7 +5828,7 @@
                          "name":  "",
                          "sale":  "Tatts Guineas",
                          "dam":  "I AM",
-                         "pedigree_raw":  "Starspangledbanner (AUS) / I Am (IRE)"
+                         "pedigree_raw":  "Starspangledbanner / I Am"
                      },
                      {
                          "lot":  "181",
@@ -5837,8 +5837,8 @@
                          "overall":  "26.97",
                          "name":  "",
                          "sale":  "Tatts Guineas",
-                         "dam":  "I LL HAVE ANOTHER",
-                         "pedigree_raw":  "Starspangledbanner (AUS) / I\u0027ll Have Another (IRE)"
+                         "dam":  "I'LL HAVE ANOTHER",
+                         "pedigree_raw":  "Starspangledbanner / I'll Have Another"
                      },
                      {
                          "lot":  "182",
@@ -7288,7 +7288,7 @@
                          "name":  "",
                          "sale":  "Tatts Guineas",
                          "dam":  "EMIRATES HOLIDAYS",
-                         "pedigree_raw":  "Starspangledbanner (AUS) / Emirates Holidays (USA)"
+                         "pedigree_raw":  "Starspangledbanner / Emirates Holidays"
                      },
                      {
                          "lot":  "360",
