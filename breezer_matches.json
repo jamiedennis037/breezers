@@ -1,121 +1,7 @@
 {
-  "updated_at": "2026-09-04T10:14:02.958541+00:00",
-  "match_count": 21,
+  "updated_at": "2026-09-05T05:11:56.872251+00:00",
+  "match_count": 15,
   "matches": [
-    {
-      "horse": "Moon Rock",
-      "sire": "Sea The Moon",
-      "dam": "Rjwa",
-      "foaling_year": 2024,
-      "course": "Ascot",
-      "off_time": "2:30",
-      "off_dt": "2026-09-04T14:30:00+01:00",
-      "region": "GB",
-      "race_name": "Charbonnel Et Walker EBF Maiden Stakes (GBB Race)",
-      "race_cat": "Maiden",
-      "field_size": "11",
-      "sale": "Arqana",
-      "lot": "93",
-      "overall": "25.38",
-      "overall_rank": "56",
-      "day": "today",
-      "match_type": "sire+dam+year"
-    },
-    {
-      "horse": "Clarity",
-      "sire": "Blue Point",
-      "dam": "Perfect Sunset",
-      "foaling_year": 2024,
-      "course": "Ascot",
-      "off_time": "3:05",
-      "off_dt": "2026-09-04T15:05:00+01:00",
-      "region": "GB",
-      "race_name": "Ascot Events EBF Maiden Fillies' Stakes (GBB Race)",
-      "race_cat": "Maiden",
-      "field_size": "11",
-      "sale": "Craven",
-      "lot": "76",
-      "overall": "4.26",
-      "overall_rank": "21",
-      "day": "today",
-      "match_type": "sire+dam+year"
-    },
-    {
-      "horse": "Pure Mint",
-      "sire": "Minzaal",
-      "dam": "Its A Given",
-      "foaling_year": 2024,
-      "course": "Ascot",
-      "off_time": "3:40",
-      "off_dt": "2026-09-04T15:40:00+01:00",
-      "region": "GB",
-      "race_name": "Juddmonte EBF Restricted Novice Stakes (Bands A-D) (EBF Restricted Race Qualifier) (GBB Race)",
-      "race_cat": "Novice",
-      "field_size": "7",
-      "sale": "Goffs",
-      "lot": "165",
-      "overall": "25.07",
-      "overall_rank": "11",
-      "day": "today",
-      "match_type": "sire+dam+year"
-    },
-    {
-      "horse": "Soldier Of The Sea",
-      "sire": "Blackbeard",
-      "dam": "East Of Eden",
-      "foaling_year": 2024,
-      "course": "Ascot",
-      "off_time": "3:40",
-      "off_dt": "2026-09-04T15:40:00+01:00",
-      "region": "GB",
-      "race_name": "Juddmonte EBF Restricted Novice Stakes (Bands A-D) (EBF Restricted Race Qualifier) (GBB Race)",
-      "race_cat": "Novice",
-      "field_size": "7",
-      "sale": "Arqana",
-      "lot": "201",
-      "overall": "25.30",
-      "overall_rank": "44",
-      "day": "today",
-      "match_type": "sire+dam+year"
-    },
-    {
-      "horse": "Xochipilli",
-      "sire": "Blue Point",
-      "dam": "Diantha",
-      "foaling_year": 2024,
-      "course": "Kempton (AW)",
-      "off_time": "5:21",
-      "off_dt": "2026-09-04T17:21:00+01:00",
-      "region": "GB",
-      "race_name": "Unibet/British Stallion Studs EBF Restricted Novice Stakes (Bands B-D) (EBF Restricted Qual') (GBB)",
-      "race_cat": "Novice",
-      "field_size": "13",
-      "sale": "Craven",
-      "lot": "173",
-      "overall": "4.38",
-      "overall_rank": "70",
-      "day": "today",
-      "match_type": "sire+dam+year"
-    },
-    {
-      "horse": "Someday Somewhere",
-      "sire": "Persian Force",
-      "dam": "Evening Spirit",
-      "foaling_year": 2024,
-      "course": "Down Royal",
-      "off_time": "5:30",
-      "off_dt": "2026-09-04T17:30:00+01:00",
-      "region": "IRE",
-      "race_name": "Grant Thornton Nursery Handicap",
-      "race_cat": "Nursery",
-      "field_size": "10",
-      "sale": "Goffs",
-      "lot": "139",
-      "overall": "25.43",
-      "overall_rank": "55",
-      "day": "today",
-      "match_type": "sire+dam+year"
-    },
     {
       "horse": "Ana Morello",
       "sire": "Bayside Boy",
@@ -132,7 +18,7 @@
       "lot": "241",
       "overall": "25.27",
       "overall_rank": "60",
-      "day": "tomorrow",
+      "day": "today",
       "match_type": "sire+dam+year"
     },
     {
@@ -151,7 +37,7 @@
       "lot": "155",
       "overall": "25.69",
       "overall_rank": "116",
-      "day": "tomorrow",
+      "day": "today",
       "match_type": "sire+dam+year"
     },
     {
@@ -170,7 +56,7 @@
       "lot": "85",
       "overall": "26.01",
       "overall_rank": "133",
-      "day": "tomorrow",
+      "day": "today",
       "match_type": "sire+dam+year"
     },
     {
@@ -189,7 +75,7 @@
       "lot": "292",
       "overall": "26.73",
       "overall_rank": "22",
-      "day": "tomorrow",
+      "day": "today",
       "match_type": "sire+dam+year"
     },
     {
@@ -208,7 +94,7 @@
       "lot": "125",
       "overall": "4.31",
       "overall_rank": "10",
-      "day": "tomorrow",
+      "day": "today",
       "match_type": "sire+dam+year"
     },
     {
@@ -227,7 +113,7 @@
       "lot": "213",
       "overall": "25.25",
       "overall_rank": "29",
-      "day": "tomorrow",
+      "day": "today",
       "match_type": "sire+dam+year"
     },
     {
@@ -246,7 +132,7 @@
       "lot": "62",
       "overall": "25.27",
       "overall_rank": "32",
-      "day": "tomorrow",
+      "day": "today",
       "match_type": "sire+dam+year"
     },
     {
@@ -265,7 +151,7 @@
       "lot": "71",
       "overall": "26.12",
       "overall_rank": "166",
-      "day": "tomorrow",
+      "day": "today",
       "match_type": "sire+dam+year"
     },
     {
@@ -284,7 +170,7 @@
       "lot": "223",
       "overall": "27.45",
       "overall_rank": "91",
-      "day": "tomorrow",
+      "day": "today",
       "match_type": "sire+dam+year"
     },
     {
@@ -303,7 +189,7 @@
       "lot": "148",
       "overall": "4.35",
       "overall_rank": "48",
-      "day": "tomorrow",
+      "day": "today",
       "match_type": "sire+dam+year"
     },
     {
@@ -322,7 +208,7 @@
       "lot": "111",
       "overall": "25.01",
       "overall_rank": "7",
-      "day": "tomorrow",
+      "day": "today",
       "match_type": "sire+dam+year"
     },
     {
@@ -341,7 +227,7 @@
       "lot": "212",
       "overall": "24.52",
       "overall_rank": "4",
-      "day": "tomorrow",
+      "day": "today",
       "match_type": "sire+dam+year"
     },
     {
@@ -360,7 +246,7 @@
       "lot": "16",
       "overall": "4.32",
       "overall_rank": "24",
-      "day": "tomorrow",
+      "day": "today",
       "match_type": "sire+dam+year"
     },
     {
@@ -379,7 +265,7 @@
       "lot": "172",
       "overall": "25.28",
       "overall_rank": "33",
-      "day": "tomorrow",
+      "day": "today",
       "match_type": "sire+dam+year"
     },
     {
@@ -398,7 +284,7 @@
       "lot": "249",
       "overall": "27.60",
       "overall_rank": "102",
-      "day": "tomorrow",
+      "day": "today",
       "match_type": "sire+dam+year"
     }
   ]
