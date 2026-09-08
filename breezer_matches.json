@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T05:13:14.782293+00:00",
+  "updated_at": "2026-09-08T10:14:52.600680+00:00",
   "match_count": 20,
   "matches": [
     {
@@ -13,7 +13,7 @@
       "region": "GB",
       "race_name": "British EBF Ron Brooks Motor Group Fillies' Novice Stakes (GBB Race)",
       "race_cat": "Novice",
-      "field_size": "9",
+      "field_size": "8",
       "sale": "Craven",
       "lot": "91",
       "overall": "4.39",
@@ -32,7 +32,7 @@
       "region": "GB",
       "race_name": "British EBF 'Confined' Expotile Novice Stakes (No More Than Three Runs) (C&G) (Div I)",
       "race_cat": "Novice",
-      "field_size": "10",
+      "field_size": "9",
       "sale": "Arqana",
       "lot": "179",
       "overall": "25.21",
@@ -51,7 +51,7 @@
       "region": "GB",
       "race_name": "British EBF 'Confined' Expotile Novice Stakes (No More Than Three Runs) (C&G) (Div I)",
       "race_cat": "Novice",
-      "field_size": "10",
+      "field_size": "9",
       "sale": "Arqana",
       "lot": "40",
       "overall": "25.88",
@@ -70,7 +70,7 @@
       "region": "GB",
       "race_name": "British EBF 'Confined' Expotile Novice Stakes (No More Than Three Runs) (C&G) (Div I)",
       "race_cat": "Novice",
-      "field_size": "10",
+      "field_size": "9",
       "sale": "Goffs",
       "lot": "106",
       "overall": "25.50",
