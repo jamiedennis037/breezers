@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13T05:12:05.278620+00:00",
+  "updated_at": "2026-09-13T10:18:58.583370+00:00",
   "match_count": 16,
   "matches": [
     {
@@ -13,7 +13,7 @@
       "region": "IRE",
       "race_name": "Tattersalls Ireland Super Auction Sales Stakes",
       "race_cat": "Black Type",
-      "field_size": "16",
+      "field_size": "15",
       "sale": "Tatts Ireland",
       "lot": "224",
       "overall": "24.89",
@@ -32,7 +32,7 @@
       "region": "IRE",
       "race_name": "Tattersalls Ireland Super Auction Sales Stakes",
       "race_cat": "Black Type",
-      "field_size": "16",
+      "field_size": "15",
       "sale": "Goffs",
       "lot": "63",
       "overall": "26.00",
