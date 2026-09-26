@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26T05:12:30.805350+00:00",
+  "updated_at": "2026-09-26T10:12:56.370743+00:00",
   "match_count": 32,
   "matches": [
     {
@@ -13,7 +13,7 @@
       "region": "GB",
       "race_name": "British Stallion Studs EBF 'Jersey Lily' Fillies' Nursery Handicap",
       "race_cat": "Nursery",
-      "field_size": "11",
+      "field_size": "10",
       "sale": "Tatts Guineas",
       "lot": "316",
       "overall": "26.75",
@@ -32,7 +32,7 @@
       "region": "GB",
       "race_name": "British Stallion Studs EBF 'Jersey Lily' Fillies' Nursery Handicap",
       "race_cat": "Nursery",
-      "field_size": "11",
+      "field_size": "10",
       "sale": "Tatts Ireland",
       "lot": "83",
       "overall": "26.18",
@@ -51,7 +51,7 @@
       "region": "IRE",
       "race_name": "Market Square Monasterevin Irish EBF Maiden",
       "race_cat": "Maiden",
-      "field_size": "14",
+      "field_size": "13",
       "sale": "Craven",
       "lot": "172",
       "overall": "25.57",
@@ -70,7 +70,7 @@
       "region": "IRE",
       "race_name": "Market Square Monasterevin Irish EBF Maiden",
       "race_cat": "Maiden",
-      "field_size": "14",
+      "field_size": "13",
       "sale": "Tatts Ireland",
       "lot": "165",
       "overall": "25.42",
