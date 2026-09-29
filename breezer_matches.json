@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T05:13:40.529718+00:00",
+  "updated_at": "2026-09-29T10:15:02.252760+00:00",
   "match_count": 23,
   "matches": [
     {
@@ -13,7 +13,7 @@
       "region": "IRE",
       "race_name": "Irish Stallion Farms EBF Maiden",
       "race_cat": "Maiden",
-      "field_size": "13",
+      "field_size": "12",
       "sale": "Craven",
       "lot": "24",
       "overall": "4.34",
@@ -412,7 +412,7 @@
       "region": "GB",
       "race_name": "Bet £20 Get £20 With Unibet Maiden Stakes (GBB/GBBPlus Race) (Div II)",
       "race_cat": "Maiden",
-      "field_size": "11",
+      "field_size": "10",
       "sale": "Craven",
       "lot": "41",
       "overall": "26.21",
@@ -431,7 +431,7 @@
       "region": "GB",
       "race_name": "Bet £20 Get £20 With Unibet Maiden Stakes (GBB/GBBPlus Race) (Div II)",
       "race_cat": "Maiden",
-      "field_size": "11",
+      "field_size": "10",
       "sale": "Arqana",
       "lot": "40",
       "overall": "25.88",
