@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-09T11:42:54.066926+00:00",
-  "match_count": 35,
+  "updated_at": "2026-10-09T16:52:21.035860+00:00",
+  "match_count": 34,
   "matches": [
     {
       "horse": "Mussab",
@@ -208,25 +208,6 @@
       "lot": "44",
       "overall": "26.50",
       "overall_rank": "175",
-      "day": "today",
-      "match_type": "sire+dam+year"
-    },
-    {
-      "horse": "Aljoon",
-      "sire": "Calyx",
-      "dam": "Hieroglyphic",
-      "foaling_year": 2024,
-      "course": "York",
-      "off_time": "2:05",
-      "off_dt": "2026-10-09T14:05:00+01:00",
-      "region": "GB",
-      "race_name": "British EBF £100,000 Final (Colts & Geldings)",
-      "race_cat": "Other",
-      "field_size": "16",
-      "sale": "Tatts Guineas",
-      "lot": "177",
-      "overall": "27.75",
-      "overall_rank": "118",
       "day": "today",
       "match_type": "sire+dam+year"
     },
