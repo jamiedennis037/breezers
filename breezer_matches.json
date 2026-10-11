@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-11T11:18:15.623031+00:00",
-  "match_count": 15,
+  "updated_at": "2026-10-11T16:11:17.697939+00:00",
+  "match_count": 14,
   "matches": [
     {
       "horse": "Formous",
@@ -56,25 +56,6 @@
       "lot": "106",
       "overall": "25.04",
       "overall_rank": "27",
-      "day": "today",
-      "match_type": "sire+dam+year"
-    },
-    {
-      "horse": "Nakota River",
-      "sire": "Sioux Nation",
-      "dam": "Sparkle On",
-      "foaling_year": 2024,
-      "course": "Naas",
-      "off_time": "1:56",
-      "off_dt": "2026-10-11T13:56:00+01:00",
-      "region": "IRE",
-      "race_name": "Tifrums Irish EBF (C & G) Maiden",
-      "race_cat": "Maiden",
-      "field_size": "8",
-      "sale": "Arqana",
-      "lot": "125",
-      "overall": "25.53",
-      "overall_rank": "67",
       "day": "today",
       "match_type": "sire+dam+year"
     },
