@@ -1,26 +1,7 @@
 {
-  "updated_at": "2026-10-15T09:40:38.570161+00:00",
-  "match_count": 16,
+  "updated_at": "2026-10-15T14:44:55.730753+00:00",
+  "match_count": 15,
   "matches": [
-    {
-      "horse": "The Captains Day",
-      "sire": "Acclamation",
-      "dam": "Lavande",
-      "foaling_year": 2024,
-      "course": "Curragh",
-      "off_time": "2:12",
-      "off_dt": "2026-10-15T14:12:00+01:00",
-      "region": "IRE",
-      "race_name": "Irish EBF Median Sires Series Maiden (Smullen Series)",
-      "race_cat": "Maiden",
-      "field_size": "17",
-      "sale": "Tatts Ireland",
-      "lot": "52",
-      "overall": "24.84",
-      "overall_rank": "12",
-      "day": "today",
-      "match_type": "sire+dam+year"
-    },
     {
       "horse": "Quai Louis",
       "sire": "Palace Pier",
