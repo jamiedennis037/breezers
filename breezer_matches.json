@@ -1,235 +1,7 @@
 {
-  "updated_at": "2026-10-16T14:39:40.121686+00:00",
-  "match_count": 29,
+  "updated_at": "2026-10-17T09:04:17.820572+00:00",
+  "match_count": 17,
   "matches": [
-    {
-      "horse": "Extragalactic",
-      "sire": "Space Traveller",
-      "dam": "Harvest Joy",
-      "foaling_year": 2024,
-      "course": "Redcar",
-      "off_time": "1:20",
-      "off_dt": "2026-10-16T13:20:00+01:00",
-      "region": "GB",
-      "race_name": "Join Racing TV Now British EBF Restricted Novice Stakes (Bands C And D) (GBB Race) (Div I)",
-      "race_cat": "Novice",
-      "field_size": "10",
-      "sale": "Goffs",
-      "lot": "152",
-      "overall": "25.66",
-      "overall_rank": "87",
-      "day": "today",
-      "match_type": "sire+dam+year"
-    },
-    {
-      "horse": "Late Night Show",
-      "sire": "Night Of Thunder",
-      "dam": "Dean Street Doll",
-      "foaling_year": 2024,
-      "course": "Redcar",
-      "off_time": "2:27",
-      "off_dt": "2026-10-16T14:27:00+01:00",
-      "region": "GB",
-      "race_name": "Watch Live On Racing TV EBF Fillies' Novice Stakes (GBB Race)",
-      "race_cat": "Novice",
-      "field_size": "7",
-      "sale": "Goffs",
-      "lot": "126",
-      "overall": "25.48",
-      "overall_rank": "62",
-      "day": "today",
-      "match_type": "sire+dam+year"
-    },
-    {
-      "horse": "Trapped Goddess",
-      "sire": "Sioux Nation",
-      "dam": "Tanamia",
-      "foaling_year": 2024,
-      "course": "Redcar",
-      "off_time": "2:27",
-      "off_dt": "2026-10-16T14:27:00+01:00",
-      "region": "GB",
-      "race_name": "Watch Live On Racing TV EBF Fillies' Novice Stakes (GBB Race)",
-      "race_cat": "Novice",
-      "field_size": "7",
-      "sale": "Arqana",
-      "lot": "137",
-      "overall": "25.25",
-      "overall_rank": "36",
-      "day": "today",
-      "match_type": "sire+dam+year"
-    },
-    {
-      "horse": "Mubehir",
-      "sire": "Sioux Nation",
-      "dam": "Kissysuzuki",
-      "foaling_year": 2024,
-      "course": "Redcar",
-      "off_time": "3:02",
-      "off_dt": "2026-10-16T15:02:00+01:00",
-      "region": "GB",
-      "race_name": "Market Cross Jewellers Nursery Handicap",
-      "race_cat": "Nursery",
-      "field_size": "9",
-      "sale": "Tatts Guineas",
-      "lot": "195",
-      "overall": "29.05",
-      "overall_rank": "162",
-      "day": "today",
-      "match_type": "sire+dam+year"
-    },
-    {
-      "horse": "Dadawada",
-      "sire": "Kodiac",
-      "dam": "Nyanga",
-      "foaling_year": 2024,
-      "course": "Redcar",
-      "off_time": "3:02",
-      "off_dt": "2026-10-16T15:02:00+01:00",
-      "region": "GB",
-      "race_name": "Market Cross Jewellers Nursery Handicap",
-      "race_cat": "Nursery",
-      "field_size": "9",
-      "sale": "Tatts Guineas",
-      "lot": "226",
-      "overall": "27.20",
-      "overall_rank": "64",
-      "day": "today",
-      "match_type": "sire+dam+year"
-    },
-    {
-      "horse": "Johns Power",
-      "sire": "Perfect Power",
-      "dam": "Mon Ombre",
-      "foaling_year": 2024,
-      "course": "Redcar",
-      "off_time": "3:02",
-      "off_dt": "2026-10-16T15:02:00+01:00",
-      "region": "GB",
-      "race_name": "Market Cross Jewellers Nursery Handicap",
-      "race_cat": "Nursery",
-      "field_size": "9",
-      "sale": "Goffs",
-      "lot": "206",
-      "overall": "27.26",
-      "overall_rank": "195",
-      "day": "today",
-      "match_type": "sire+dam+year"
-    },
-    {
-      "horse": "Redrosecastana",
-      "sire": "Mehmas",
-      "dam": "Shaden",
-      "foaling_year": 2024,
-      "course": "Redcar",
-      "off_time": "3:02",
-      "off_dt": "2026-10-16T15:02:00+01:00",
-      "region": "GB",
-      "race_name": "Market Cross Jewellers Nursery Handicap",
-      "race_cat": "Nursery",
-      "field_size": "9",
-      "sale": "Goffs",
-      "lot": "21",
-      "overall": "26.12",
-      "overall_rank": "147",
-      "day": "today",
-      "match_type": "sire+dam+year"
-    },
-    {
-      "horse": "Deputy Vice",
-      "sire": "Mehmas",
-      "dam": "Second Glance",
-      "foaling_year": 2024,
-      "course": "Haydock",
-      "off_time": "3:27",
-      "off_dt": "2026-10-16T15:27:00+01:00",
-      "region": "GB",
-      "race_name": "Vantage Consulting Powered By Requidex Nursery Handicap",
-      "race_cat": "Nursery",
-      "field_size": "9",
-      "sale": "Goffs",
-      "lot": "17",
-      "overall": "25.07",
-      "overall_rank": "10",
-      "day": "today",
-      "match_type": "sire+dam+year"
-    },
-    {
-      "horse": "Show And Tell",
-      "sire": "Showcasing",
-      "dam": "Dundunah",
-      "foaling_year": 2024,
-      "course": "Haydock",
-      "off_time": "4:02",
-      "off_dt": "2026-10-16T16:02:00+01:00",
-      "region": "GB",
-      "race_name": "Jill Wilcox Jones Memorial EBF Maiden Fillies' Stakes (GBB Race)",
-      "race_cat": "Maiden",
-      "field_size": "3",
-      "sale": "Goffs",
-      "lot": "132",
-      "overall": "25.36",
-      "overall_rank": "44",
-      "day": "today",
-      "match_type": "sire+dam+year"
-    },
-    {
-      "horse": "Just One Show",
-      "sire": "Showcasing",
-      "dam": "My Only One",
-      "foaling_year": 2024,
-      "course": "Dundalk (AW)",
-      "off_time": "6:00",
-      "off_dt": "2026-10-16T18:00:00+01:00",
-      "region": "IRE",
-      "race_name": "James Crowe 1 Year Memorial Nursery Handicap",
-      "race_cat": "Nursery",
-      "field_size": "13",
-      "sale": "Goffs",
-      "lot": "209",
-      "overall": "25.78",
-      "overall_rank": "103",
-      "day": "today",
-      "match_type": "sire+dam+year"
-    },
-    {
-      "horse": "Violet Be Humble",
-      "sire": "Cotai Glory",
-      "dam": "Violet Warda",
-      "foaling_year": 2024,
-      "course": "Dundalk (AW)",
-      "off_time": "6:00",
-      "off_dt": "2026-10-16T18:00:00+01:00",
-      "region": "IRE",
-      "race_name": "James Crowe 1 Year Memorial Nursery Handicap",
-      "race_cat": "Nursery",
-      "field_size": "13",
-      "sale": "Goffs",
-      "lot": "65",
-      "overall": "25.83",
-      "overall_rank": "109",
-      "day": "today",
-      "match_type": "sire+dam+year"
-    },
-    {
-      "horse": "Matavai Bay",
-      "sire": "Dandy Man",
-      "dam": "Westfalica",
-      "foaling_year": 2024,
-      "course": "Dundalk (AW)",
-      "off_time": "6:00",
-      "off_dt": "2026-10-16T18:00:00+01:00",
-      "region": "IRE",
-      "race_name": "James Crowe 1 Year Memorial Nursery Handicap",
-      "race_cat": "Nursery",
-      "field_size": "13",
-      "sale": "Goffs",
-      "lot": "69",
-      "overall": "25.93",
-      "overall_rank": "126",
-      "day": "today",
-      "match_type": "sire+dam+year"
-    },
     {
       "horse": "Inner City Blues",
       "sire": "Blue Point",
@@ -246,7 +18,7 @@
       "lot": "197",
       "overall": "25.03",
       "overall_rank": "14",
-      "day": "tomorrow",
+      "day": "today",
       "match_type": "sire+dam+year"
     },
     {
@@ -265,7 +37,7 @@
       "lot": "85",
       "overall": "26.01",
       "overall_rank": "133",
-      "day": "tomorrow",
+      "day": "today",
       "match_type": "sire+dam+year"
     },
     {
@@ -279,12 +51,12 @@
       "region": "IRE",
       "race_name": "Irish EBF Fillies Maiden (Smullen Series)",
       "race_cat": "Maiden",
-      "field_size": "13",
+      "field_size": "12",
       "sale": "Tatts Ireland",
       "lot": "93",
       "overall": "26.74",
       "overall_rank": "215",
-      "day": "tomorrow",
+      "day": "today",
       "match_type": "sire+dam+year"
     },
     {
@@ -303,7 +75,7 @@
       "lot": "193",
       "overall": "26.15",
       "overall_rank": "132",
-      "day": "tomorrow",
+      "day": "today",
       "match_type": "sire+dam+year"
     },
     {
@@ -322,7 +94,7 @@
       "lot": "147",
       "overall": "25.73",
       "overall_rank": "90",
-      "day": "tomorrow",
+      "day": "today",
       "match_type": "sire+dam+year"
     },
     {
@@ -341,7 +113,7 @@
       "lot": "85",
       "overall": "4.26",
       "overall_rank": "55",
-      "day": "tomorrow",
+      "day": "today",
       "match_type": "sire+dam+year"
     },
     {
@@ -360,7 +132,7 @@
       "lot": "149",
       "overall": "",
       "overall_rank": "",
-      "day": "tomorrow",
+      "day": "today",
       "match_type": "sire+dam+year"
     },
     {
@@ -379,7 +151,7 @@
       "lot": "7",
       "overall": "4.44",
       "overall_rank": "115",
-      "day": "tomorrow",
+      "day": "today",
       "match_type": "sire+dam+year"
     },
     {
@@ -398,7 +170,7 @@
       "lot": "19",
       "overall": "26.04",
       "overall_rank": "121",
-      "day": "tomorrow",
+      "day": "today",
       "match_type": "sire+dam+year"
     },
     {
@@ -417,7 +189,7 @@
       "lot": "9",
       "overall": "25.72",
       "overall_rank": "89",
-      "day": "tomorrow",
+      "day": "today",
       "match_type": "sire+dam+year"
     },
     {
@@ -431,12 +203,12 @@
       "region": "IRE",
       "race_name": "Irish Stallion Farms EBF Nursery Handicap",
       "race_cat": "Nursery",
-      "field_size": "8",
+      "field_size": "7",
       "sale": "Tatts Guineas",
       "lot": "331",
       "overall": "27.63",
       "overall_rank": "108",
-      "day": "tomorrow",
+      "day": "today",
       "match_type": "sire+dam+year"
     },
     {
@@ -455,7 +227,7 @@
       "lot": "156",
       "overall": "25.44",
       "overall_rank": "56",
-      "day": "tomorrow",
+      "day": "today",
       "match_type": "sire+dam+year"
     },
     {
@@ -474,7 +246,7 @@
       "lot": "337",
       "overall": "28.22",
       "overall_rank": "145",
-      "day": "tomorrow",
+      "day": "today",
       "match_type": "sire+dam+year"
     },
     {
@@ -493,7 +265,7 @@
       "lot": "224",
       "overall": "26.96",
       "overall_rank": "191",
-      "day": "tomorrow",
+      "day": "today",
       "match_type": "sire+dam+year"
     },
     {
@@ -512,7 +284,7 @@
       "lot": "38",
       "overall": "25.90",
       "overall_rank": "120",
-      "day": "tomorrow",
+      "day": "today",
       "match_type": "sire+dam+year"
     },
     {
@@ -531,7 +303,7 @@
       "lot": "225",
       "overall": "27.37",
       "overall_rank": "86",
-      "day": "tomorrow",
+      "day": "today",
       "match_type": "sire+dam+year"
     },
     {
@@ -550,7 +322,7 @@
       "lot": "211",
       "overall": "26.52",
       "overall_rank": "9",
-      "day": "tomorrow",
+      "day": "today",
       "match_type": "sire+dam+year"
     }
   ]
