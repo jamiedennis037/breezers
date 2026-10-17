@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T09:04:17.820572+00:00",
+  "updated_at": "2026-10-17T13:31:06.927352+00:00",
   "match_count": 17,
   "matches": [
     {
@@ -51,7 +51,7 @@
       "region": "IRE",
       "race_name": "Irish EBF Fillies Maiden (Smullen Series)",
       "race_cat": "Maiden",
-      "field_size": "12",
+      "field_size": "11",
       "sale": "Tatts Ireland",
       "lot": "93",
       "overall": "26.74",
@@ -165,7 +165,7 @@
       "region": "IRE",
       "race_name": "Mongey Communications Killavullan Stakes (Group 3)",
       "race_cat": "Black Type",
-      "field_size": "7",
+      "field_size": "6",
       "sale": "Arqana",
       "lot": "19",
       "overall": "26.04",
