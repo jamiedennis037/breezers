@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-18T13:49:44.659069+00:00",
-  "match_count": 18,
+  "updated_at": "2026-10-19T10:35:05.056616+00:00",
+  "match_count": 23,
   "matches": [
     {
       "horse": "High Tower",
@@ -18,7 +18,7 @@
       "lot": "133",
       "overall": "4.29",
       "overall_rank": "75",
-      "day": "tomorrow",
+      "day": "today",
       "match_type": "sire+dam+year"
     },
     {
@@ -37,7 +37,7 @@
       "lot": "178",
       "overall": "25.19",
       "overall_rank": "49",
-      "day": "tomorrow",
+      "day": "today",
       "match_type": "sire+dam+year"
     },
     {
@@ -56,7 +56,7 @@
       "lot": "114",
       "overall": "26.52",
       "overall_rank": "176",
-      "day": "tomorrow",
+      "day": "today",
       "match_type": "sire+dam+year"
     },
     {
@@ -75,7 +75,7 @@
       "lot": "239",
       "overall": "28.01",
       "overall_rank": "134",
-      "day": "tomorrow",
+      "day": "today",
       "match_type": "sire+dam+year"
     },
     {
@@ -94,7 +94,7 @@
       "lot": "149",
       "overall": "27.59",
       "overall_rank": "148",
-      "day": "tomorrow",
+      "day": "today",
       "match_type": "sire+dam+year"
     },
     {
@@ -113,7 +113,7 @@
       "lot": "109",
       "overall": "25.31",
       "overall_rank": "40",
-      "day": "tomorrow",
+      "day": "today",
       "match_type": "sire+dam+year"
     },
     {
@@ -132,7 +132,7 @@
       "lot": "218",
       "overall": "25.74",
       "overall_rank": "123",
-      "day": "tomorrow",
+      "day": "today",
       "match_type": "sire+dam+year"
     },
     {
@@ -151,7 +151,7 @@
       "lot": "176",
       "overall": "24.95",
       "overall_rank": "8",
-      "day": "tomorrow",
+      "day": "today",
       "match_type": "sire+dam+year"
     },
     {
@@ -170,7 +170,7 @@
       "lot": "219",
       "overall": "26.36",
       "overall_rank": "166",
-      "day": "tomorrow",
+      "day": "today",
       "match_type": "sire+dam+year"
     },
     {
@@ -184,12 +184,12 @@
       "region": "GB",
       "race_name": "Download The At The Races App Nursery Handicap (Div I)",
       "race_cat": "Nursery",
-      "field_size": "12",
+      "field_size": "10",
       "sale": "Craven",
       "lot": "110",
       "overall": "4.17",
       "overall_rank": "112",
-      "day": "tomorrow",
+      "day": "today",
       "match_type": "sire+dam+year"
     },
     {
@@ -208,7 +208,7 @@
       "lot": "201",
       "overall": "25.81",
       "overall_rank": "106",
-      "day": "tomorrow",
+      "day": "today",
       "match_type": "sire+dam+year"
     },
     {
@@ -227,7 +227,7 @@
       "lot": "145",
       "overall": "26.00",
       "overall_rank": "131",
-      "day": "tomorrow",
+      "day": "today",
       "match_type": "sire+dam+year"
     },
     {
@@ -246,7 +246,7 @@
       "lot": "35",
       "overall": "4.23",
       "overall_rank": "66",
-      "day": "tomorrow",
+      "day": "today",
       "match_type": "sire+dam+year"
     },
     {
@@ -265,7 +265,7 @@
       "lot": "305",
       "overall": "27.16",
       "overall_rank": "61",
-      "day": "tomorrow",
+      "day": "today",
       "match_type": "sire+dam+year"
     },
     {
@@ -284,7 +284,7 @@
       "lot": "7",
       "overall": "25.31",
       "overall_rank": "38",
-      "day": "tomorrow",
+      "day": "today",
       "match_type": "sire+dam+year"
     },
     {
@@ -303,7 +303,7 @@
       "lot": "265",
       "overall": "24.64",
       "overall_rank": "8",
-      "day": "tomorrow",
+      "day": "today",
       "match_type": "sire+dam+year"
     },
     {
@@ -322,7 +322,7 @@
       "lot": "235",
       "overall": "25.07",
       "overall_rank": "31",
-      "day": "tomorrow",
+      "day": "today",
       "match_type": "sire+dam+year"
     },
     {
@@ -341,6 +341,101 @@
       "lot": "15",
       "overall": "25.33",
       "overall_rank": "47",
+      "day": "today",
+      "match_type": "sire+dam+year"
+    },
+    {
+      "horse": "One Flash",
+      "sire": "Mehmas",
+      "dam": "Taawfan",
+      "foaling_year": 2024,
+      "course": "Curragh",
+      "off_time": "1:25",
+      "off_dt": "2026-10-20T13:25:00+01:00",
+      "region": "IRE",
+      "race_name": "1xBet.ie Supporting October Racing Irish EBF Maiden",
+      "race_cat": "Maiden",
+      "field_size": "13",
+      "sale": "Arqana",
+      "lot": "135",
+      "overall": "",
+      "overall_rank": "",
+      "day": "tomorrow",
+      "match_type": "sire+dam+year"
+    },
+    {
+      "horse": "Rejoinder",
+      "sire": "Space Blues",
+      "dam": "Quiania",
+      "foaling_year": 2024,
+      "course": "Curragh",
+      "off_time": "1:25",
+      "off_dt": "2026-10-20T13:25:00+01:00",
+      "region": "IRE",
+      "race_name": "1xBet.ie Supporting October Racing Irish EBF Maiden",
+      "race_cat": "Maiden",
+      "field_size": "13",
+      "sale": "Tatts Ireland",
+      "lot": "106",
+      "overall": "25.04",
+      "overall_rank": "27",
+      "day": "tomorrow",
+      "match_type": "sire+dam+year"
+    },
+    {
+      "horse": "Shake It Out",
+      "sire": "Harry Angel",
+      "dam": "Twist 'N' Shake",
+      "foaling_year": 2024,
+      "course": "Curragh",
+      "off_time": "1:25",
+      "off_dt": "2026-10-20T13:25:00+01:00",
+      "region": "IRE",
+      "race_name": "1xBet.ie Supporting October Racing Irish EBF Maiden",
+      "race_cat": "Maiden",
+      "field_size": "13",
+      "sale": "Tatts Ireland",
+      "lot": "165",
+      "overall": "25.42",
+      "overall_rank": "77",
+      "day": "tomorrow",
+      "match_type": "sire+dam+year"
+    },
+    {
+      "horse": "Sonny Hayes",
+      "sire": "Blue Point",
+      "dam": "Jeeds Legacy",
+      "foaling_year": 2024,
+      "course": "Curragh",
+      "off_time": "1:25",
+      "off_dt": "2026-10-20T13:25:00+01:00",
+      "region": "IRE",
+      "race_name": "1xBet.ie Supporting October Racing Irish EBF Maiden",
+      "race_cat": "Maiden",
+      "field_size": "13",
+      "sale": "Craven",
+      "lot": "24",
+      "overall": "4.34",
+      "overall_rank": "116",
+      "day": "tomorrow",
+      "match_type": "sire+dam+year"
+    },
+    {
+      "horse": "Admired Beauty",
+      "sire": "Blue Point",
+      "dam": "Blissful Beauty",
+      "foaling_year": 2024,
+      "course": "Curragh",
+      "off_time": "3:00",
+      "off_dt": "2026-10-20T15:00:00+01:00",
+      "region": "IRE",
+      "race_name": "Staffordstown Stud Stakes (Group 3) (Fillies)",
+      "race_cat": "Black Type",
+      "field_size": "11",
+      "sale": "Tatts Guineas",
+      "lot": "331",
+      "overall": "27.63",
+      "overall_rank": "108",
       "day": "tomorrow",
       "match_type": "sire+dam+year"
     }
