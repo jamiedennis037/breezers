@@ -1,102 +1,7 @@
 {
-  "updated_at": "2026-10-20T14:48:52.907004+00:00",
-  "match_count": 19,
+  "updated_at": "2026-10-21T09:53:20.415938+00:00",
+  "match_count": 17,
   "matches": [
-    {
-      "horse": "One Flash",
-      "sire": "Mehmas",
-      "dam": "Taawfan",
-      "foaling_year": 2024,
-      "course": "Curragh",
-      "off_time": "1:25",
-      "off_dt": "2026-10-20T13:25:00+01:00",
-      "region": "IRE",
-      "race_name": "1xBet.ie Supporting October Racing Irish EBF Maiden",
-      "race_cat": "Maiden",
-      "field_size": "13",
-      "sale": "Arqana",
-      "lot": "135",
-      "overall": "",
-      "overall_rank": "",
-      "day": "today",
-      "match_type": "sire+dam+year"
-    },
-    {
-      "horse": "Rejoinder",
-      "sire": "Space Blues",
-      "dam": "Quiania",
-      "foaling_year": 2024,
-      "course": "Curragh",
-      "off_time": "1:25",
-      "off_dt": "2026-10-20T13:25:00+01:00",
-      "region": "IRE",
-      "race_name": "1xBet.ie Supporting October Racing Irish EBF Maiden",
-      "race_cat": "Maiden",
-      "field_size": "13",
-      "sale": "Tatts Ireland",
-      "lot": "106",
-      "overall": "25.04",
-      "overall_rank": "27",
-      "day": "today",
-      "match_type": "sire+dam+year"
-    },
-    {
-      "horse": "Shake It Out",
-      "sire": "Harry Angel",
-      "dam": "Twist 'N' Shake",
-      "foaling_year": 2024,
-      "course": "Curragh",
-      "off_time": "1:25",
-      "off_dt": "2026-10-20T13:25:00+01:00",
-      "region": "IRE",
-      "race_name": "1xBet.ie Supporting October Racing Irish EBF Maiden",
-      "race_cat": "Maiden",
-      "field_size": "13",
-      "sale": "Tatts Ireland",
-      "lot": "165",
-      "overall": "25.42",
-      "overall_rank": "77",
-      "day": "today",
-      "match_type": "sire+dam+year"
-    },
-    {
-      "horse": "Sonny Hayes",
-      "sire": "Blue Point",
-      "dam": "Jeeds Legacy",
-      "foaling_year": 2024,
-      "course": "Curragh",
-      "off_time": "1:25",
-      "off_dt": "2026-10-20T13:25:00+01:00",
-      "region": "IRE",
-      "race_name": "1xBet.ie Supporting October Racing Irish EBF Maiden",
-      "race_cat": "Maiden",
-      "field_size": "13",
-      "sale": "Craven",
-      "lot": "24",
-      "overall": "4.34",
-      "overall_rank": "116",
-      "day": "today",
-      "match_type": "sire+dam+year"
-    },
-    {
-      "horse": "Admired Beauty",
-      "sire": "Blue Point",
-      "dam": "Blissful Beauty",
-      "foaling_year": 2024,
-      "course": "Curragh",
-      "off_time": "3:00",
-      "off_dt": "2026-10-20T15:00:00+01:00",
-      "region": "IRE",
-      "race_name": "Staffordstown Stud Stakes (Group 3) (Fillies)",
-      "race_cat": "Black Type",
-      "field_size": "11",
-      "sale": "Tatts Guineas",
-      "lot": "331",
-      "overall": "27.63",
-      "overall_rank": "108",
-      "day": "today",
-      "match_type": "sire+dam+year"
-    },
     {
       "horse": "Queen Of The Andes",
       "sire": "Nando Parrado",
@@ -108,12 +13,12 @@
       "region": "IRE",
       "race_name": "Irish Stallion Farms EBF Median Auction Maiden",
       "race_cat": "Maiden",
-      "field_size": "16",
+      "field_size": "14",
       "sale": "Tatts Ireland",
       "lot": "225",
       "overall": "25.49",
       "overall_rank": "85",
-      "day": "tomorrow",
+      "day": "today",
       "match_type": "sire+dam+year"
     },
     {
@@ -132,7 +37,7 @@
       "lot": "206",
       "overall": "25.18",
       "overall_rank": "47",
-      "day": "tomorrow",
+      "day": "today",
       "match_type": "sire+dam+year"
     },
     {
@@ -151,7 +56,7 @@
       "lot": "24",
       "overall": "25.59",
       "overall_rank": "73",
-      "day": "tomorrow",
+      "day": "today",
       "match_type": "sire+dam+year"
     },
     {
@@ -170,7 +75,7 @@
       "lot": "248",
       "overall": "25.38",
       "overall_rank": "74",
-      "day": "tomorrow",
+      "day": "today",
       "match_type": "sire+dam+year"
     },
     {
@@ -184,12 +89,12 @@
       "region": "GB",
       "race_name": "CopyBet Overnight Best Odds Guaranteed Nursery Handicap",
       "race_cat": "Nursery",
-      "field_size": "17",
+      "field_size": "16",
       "sale": "Craven",
       "lot": "135",
       "overall": "4.38",
       "overall_rank": "103",
-      "day": "tomorrow",
+      "day": "today",
       "match_type": "sire+dam+year"
     },
     {
@@ -203,12 +108,12 @@
       "region": "GB",
       "race_name": "CopyBet Overnight Best Odds Guaranteed Nursery Handicap",
       "race_cat": "Nursery",
-      "field_size": "17",
+      "field_size": "16",
       "sale": "Goffs",
       "lot": "211",
       "overall": "26.14",
       "overall_rank": "149",
-      "day": "tomorrow",
+      "day": "today",
       "match_type": "sire+dam+year"
     },
     {
@@ -222,12 +127,12 @@
       "region": "GB",
       "race_name": "CopyBet Overnight Best Odds Guaranteed Nursery Handicap",
       "race_cat": "Nursery",
-      "field_size": "17",
+      "field_size": "16",
       "sale": "Tatts Guineas",
       "lot": "229",
       "overall": "27.44",
       "overall_rank": "90",
-      "day": "tomorrow",
+      "day": "today",
       "match_type": "sire+dam+year"
     },
     {
@@ -246,7 +151,7 @@
       "lot": "110",
       "overall": "25.46",
       "overall_rank": "59",
-      "day": "tomorrow",
+      "day": "today",
       "match_type": "sire+dam+year"
     },
     {
@@ -265,7 +170,7 @@
       "lot": "83",
       "overall": "26.18",
       "overall_rank": "173",
-      "day": "tomorrow",
+      "day": "today",
       "match_type": "sire+dam+year"
     },
     {
@@ -284,7 +189,7 @@
       "lot": "45",
       "overall": "25.12",
       "overall_rank": "24",
-      "day": "tomorrow",
+      "day": "today",
       "match_type": "sire+dam+year"
     },
     {
@@ -303,7 +208,7 @@
       "lot": "72",
       "overall": "4.32",
       "overall_rank": "33",
-      "day": "tomorrow",
+      "day": "today",
       "match_type": "sire+dam+year"
     },
     {
@@ -322,7 +227,7 @@
       "lot": "177",
       "overall": "27.75",
       "overall_rank": "118",
-      "day": "tomorrow",
+      "day": "today",
       "match_type": "sire+dam+year"
     },
     {
@@ -341,7 +246,7 @@
       "lot": "65",
       "overall": "4.41",
       "overall_rank": "67",
-      "day": "tomorrow",
+      "day": "today",
       "match_type": "sire+dam+year"
     },
     {
@@ -360,6 +265,63 @@
       "lot": "154",
       "overall": "25.21",
       "overall_rank": "22",
+      "day": "today",
+      "match_type": "sire+dam+year"
+    },
+    {
+      "horse": "Byzantine",
+      "sire": "St Mark's Basilica",
+      "dam": "Pulcinella",
+      "foaling_year": 2024,
+      "course": "Newmarket",
+      "off_time": "1:10",
+      "off_dt": "2026-10-22T13:10:00+01:00",
+      "region": "GB",
+      "race_name": "CopyBet For Europa League Profit Boosts EBF Restricted Novice Stakes (B/C/D) (GBB/GBBPlus) (Div I)",
+      "race_cat": "Novice",
+      "field_size": "9",
+      "sale": "Arqana",
+      "lot": "47",
+      "overall": "25.34",
+      "overall_rank": "50",
+      "day": "tomorrow",
+      "match_type": "sire+dam+year"
+    },
+    {
+      "horse": "Rebetiko",
+      "sire": "Saxon Warrior",
+      "dam": "Shimura",
+      "foaling_year": 2024,
+      "course": "Newmarket",
+      "off_time": "1:45",
+      "off_dt": "2026-10-22T13:45:00+01:00",
+      "region": "GB",
+      "race_name": "CopyBet For Europa League Profit Boosts EBF Restricted Novice Stakes (B/C/D) (GBB/GBBPlus) (Div II)",
+      "race_cat": "Novice",
+      "field_size": "9",
+      "sale": "Arqana",
+      "lot": "112",
+      "overall": "27.29",
+      "overall_rank": "169",
+      "day": "tomorrow",
+      "match_type": "sire+dam+year"
+    },
+    {
+      "horse": "Mollisha",
+      "sire": "Sands Of Mali",
+      "dam": "Catadalya",
+      "foaling_year": 2024,
+      "course": "Southwell (AW)",
+      "off_time": "7:00",
+      "off_dt": "2026-10-22T19:00:00+01:00",
+      "region": "GB",
+      "race_name": "AWC Season 14 Has Begun EBF Fillies' Novice Stakes (GBB Race)",
+      "race_cat": "Novice",
+      "field_size": "8",
+      "sale": "Goffs",
+      "lot": "119",
+      "overall": "25.24",
+      "overall_rank": "27",
       "day": "tomorrow",
       "match_type": "sire+dam+year"
     }
