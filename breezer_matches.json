@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-25T14:09:52.398582+00:00",
-  "match_count": 11,
+  "updated_at": "2026-10-26T10:50:04.996337+00:00",
+  "match_count": 15,
   "matches": [
     {
       "horse": "Leabank",
@@ -18,7 +18,7 @@
       "lot": "92",
       "overall": "25.61",
       "overall_rank": "79",
-      "day": "tomorrow",
+      "day": "today",
       "match_type": "sire+dam+year"
     },
     {
@@ -37,7 +37,7 @@
       "lot": "351",
       "overall": "26.97",
       "overall_rank": "45",
-      "day": "tomorrow",
+      "day": "today",
       "match_type": "sire+dam+year"
     },
     {
@@ -56,7 +56,7 @@
       "lot": "127",
       "overall": "26.04",
       "overall_rank": "135",
-      "day": "tomorrow",
+      "day": "today",
       "match_type": "sire+dam+year"
     },
     {
@@ -75,7 +75,7 @@
       "lot": "163",
       "overall": "25.78",
       "overall_rank": "104",
-      "day": "tomorrow",
+      "day": "today",
       "match_type": "sire+dam+year"
     },
     {
@@ -94,7 +94,7 @@
       "lot": "193",
       "overall": "25.77",
       "overall_rank": "101",
-      "day": "tomorrow",
+      "day": "today",
       "match_type": "sire+dam+year"
     },
     {
@@ -113,7 +113,7 @@
       "lot": "170",
       "overall": "25.69",
       "overall_rank": "92",
-      "day": "tomorrow",
+      "day": "today",
       "match_type": "sire+dam+year"
     },
     {
@@ -132,7 +132,7 @@
       "lot": "113",
       "overall": "4.34",
       "overall_rank": "84",
-      "day": "tomorrow",
+      "day": "today",
       "match_type": "sire+dam+year"
     },
     {
@@ -151,7 +151,7 @@
       "lot": "98",
       "overall": "4.44",
       "overall_rank": "110",
-      "day": "tomorrow",
+      "day": "today",
       "match_type": "sire+dam+year"
     },
     {
@@ -170,7 +170,7 @@
       "lot": "40",
       "overall": "25.17",
       "overall_rank": "45",
-      "day": "tomorrow",
+      "day": "today",
       "match_type": "sire+dam+year"
     },
     {
@@ -189,7 +189,7 @@
       "lot": "11",
       "overall": "4.23",
       "overall_rank": "104",
-      "day": "tomorrow",
+      "day": "today",
       "match_type": "sire+dam+year"
     },
     {
@@ -208,6 +208,82 @@
       "lot": "41",
       "overall": "26.21",
       "overall_rank": "101",
+      "day": "today",
+      "match_type": "sire+dam+year"
+    },
+    {
+      "horse": "Valentina Bonita",
+      "sire": "Space Traveller",
+      "dam": "Ola Bonita",
+      "foaling_year": 2024,
+      "course": "Catterick",
+      "off_time": "12:40",
+      "off_dt": "2026-10-27T12:40:00+00:00",
+      "region": "GB",
+      "race_name": "Racing To School EBF Maiden Stakes (GBB Race)",
+      "race_cat": "Maiden",
+      "field_size": "10",
+      "sale": "Goffs",
+      "lot": "215",
+      "overall": "25.40",
+      "overall_rank": "50",
+      "day": "tomorrow",
+      "match_type": "sire+dam+year"
+    },
+    {
+      "horse": "By Jove Grace",
+      "sire": "Inns Of Court",
+      "dam": "Alone Time",
+      "foaling_year": 2024,
+      "course": "Catterick",
+      "off_time": "1:10",
+      "off_dt": "2026-10-27T13:10:00+00:00",
+      "region": "GB",
+      "race_name": "Download The Raceday Ready App Nursery Handicap",
+      "race_cat": "Nursery",
+      "field_size": "8",
+      "sale": "Goffs",
+      "lot": "86",
+      "overall": "25.05",
+      "overall_rank": "8",
+      "day": "tomorrow",
+      "match_type": "sire+dam+year"
+    },
+    {
+      "horse": "Evan D Invincible",
+      "sire": "Invincible Spirit",
+      "dam": "Queen Of Tara",
+      "foaling_year": 2024,
+      "course": "Galway",
+      "off_time": "1:55",
+      "off_dt": "2026-10-27T13:55:00+00:00",
+      "region": "IRE",
+      "race_name": "Electric Galway Maiden",
+      "race_cat": "Maiden",
+      "field_size": "10",
+      "sale": "Tatts Ireland",
+      "lot": "105",
+      "overall": "40.10",
+      "overall_rank": "231",
+      "day": "tomorrow",
+      "match_type": "sire+dam+year"
+    },
+    {
+      "horse": "Wecouldavehaditall",
+      "sire": "Bayside Boy",
+      "dam": "Folie De Louise",
+      "foaling_year": 2024,
+      "course": "Galway",
+      "off_time": "2:25",
+      "off_dt": "2026-10-27T14:25:00+00:00",
+      "region": "IRE",
+      "race_name": "www.swordsecurity.com Nursery Handicap",
+      "race_cat": "Nursery",
+      "field_size": "7",
+      "sale": "Craven",
+      "lot": "5",
+      "overall": "4.48",
+      "overall_rank": "131",
       "day": "tomorrow",
       "match_type": "sire+dam+year"
     }
