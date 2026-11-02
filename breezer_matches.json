@@ -1,45 +1,7 @@
 {
-  "updated_at": "2026-11-01T16:38:49.517750+00:00",
-  "match_count": 13,
+  "updated_at": "2026-11-02T13:13:49.465192+00:00",
+  "match_count": 15,
   "matches": [
-    {
-      "horse": "Thunder Bay",
-      "sire": "New Bay",
-      "dam": "Alnoras",
-      "foaling_year": 2024,
-      "course": "Curragh",
-      "off_time": "12:17",
-      "off_dt": "2026-11-01T12:17:00+00:00",
-      "region": "IRE",
-      "race_name": "Irish EBF Maiden (Smullen Series)",
-      "race_cat": "Maiden",
-      "field_size": "23",
-      "sale": "Tatts Ireland",
-      "lot": "190",
-      "overall": "26.24",
-      "overall_rank": "180",
-      "day": "today",
-      "match_type": "sire+dam+year"
-    },
-    {
-      "horse": "Too Too Much",
-      "sire": "Too Darn Hot",
-      "dam": "Astronomy's Choice",
-      "foaling_year": 2024,
-      "course": "Curragh",
-      "off_time": "12:17",
-      "off_dt": "2026-11-01T12:17:00+00:00",
-      "region": "IRE",
-      "race_name": "Irish EBF Maiden (Smullen Series)",
-      "race_cat": "Maiden",
-      "field_size": "23",
-      "sale": "Craven",
-      "lot": "137",
-      "overall": "4.32",
-      "overall_rank": "76",
-      "day": "today",
-      "match_type": "sire+dam+year"
-    },
     {
       "horse": "Cosmocrat",
       "sire": "Caturra",
@@ -56,7 +18,7 @@
       "lot": "120",
       "overall": "25.69",
       "overall_rank": "91",
-      "day": "tomorrow",
+      "day": "today",
       "match_type": "sire+dam+year"
     },
     {
@@ -75,7 +37,7 @@
       "lot": "176",
       "overall": "26.20",
       "overall_rank": "158",
-      "day": "tomorrow",
+      "day": "today",
       "match_type": "sire+dam+year"
     },
     {
@@ -94,7 +56,7 @@
       "lot": "173",
       "overall": "28.63",
       "overall_rank": "155",
-      "day": "tomorrow",
+      "day": "today",
       "match_type": "sire+dam+year"
     },
     {
@@ -113,7 +75,7 @@
       "lot": "128",
       "overall": "25.51",
       "overall_rank": "65",
-      "day": "tomorrow",
+      "day": "today",
       "match_type": "sire+dam+year"
     },
     {
@@ -132,7 +94,7 @@
       "lot": "119",
       "overall": "25.24",
       "overall_rank": "27",
-      "day": "tomorrow",
+      "day": "today",
       "match_type": "sire+dam+year"
     },
     {
@@ -151,7 +113,7 @@
       "lot": "219",
       "overall": "25.94",
       "overall_rank": "1",
-      "day": "tomorrow",
+      "day": "today",
       "match_type": "sire+dam+year"
     },
     {
@@ -170,7 +132,7 @@
       "lot": "145",
       "overall": "26.00",
       "overall_rank": "131",
-      "day": "tomorrow",
+      "day": "today",
       "match_type": "sire+dam+year"
     },
     {
@@ -189,7 +151,7 @@
       "lot": "226",
       "overall": "27.20",
       "overall_rank": "64",
-      "day": "tomorrow",
+      "day": "today",
       "match_type": "sire+dam+year"
     },
     {
@@ -203,12 +165,12 @@
       "region": "GB",
       "race_name": "AWC Finals Day At Newcastle 26th March Nursery Handicap",
       "race_cat": "Nursery",
-      "field_size": "10",
+      "field_size": "9",
       "sale": "Goffs",
       "lot": "102",
       "overall": "25.81",
       "overall_rank": "107",
-      "day": "tomorrow",
+      "day": "today",
       "match_type": "sire+dam+year"
     },
     {
@@ -222,12 +184,12 @@
       "region": "GB",
       "race_name": "AWC Season 14 Has Begun EBF Fillies' Restricted Novice Stakes (Horses In Bands C And D) (GBB Race)",
       "race_cat": "Novice",
-      "field_size": "14",
+      "field_size": "13",
       "sale": "Tatts Guineas",
       "lot": "281",
       "overall": "26.87",
       "overall_rank": "37",
-      "day": "tomorrow",
+      "day": "today",
       "match_type": "sire+dam+year"
     },
     {
@@ -241,11 +203,87 @@
       "region": "GB",
       "race_name": "AWC Season 14 Has Begun EBF Fillies' Restricted Novice Stakes (Horses In Bands C And D) (GBB Race)",
       "race_cat": "Novice",
-      "field_size": "14",
+      "field_size": "13",
       "sale": "Tatts Ireland",
       "lot": "211",
       "overall": "26.18",
       "overall_rank": "173",
+      "day": "today",
+      "match_type": "sire+dam+year"
+    },
+    {
+      "horse": "Kodi Morse",
+      "sire": "Kodi Bear",
+      "dam": "Hot Flush",
+      "foaling_year": 2024,
+      "course": "Wolverhampton (AW)",
+      "off_time": "6:00",
+      "off_dt": "2026-11-03T18:00:00+00:00",
+      "region": "GB",
+      "race_name": "All Weather Championship Is Back EBF Maiden Stakes (GBB Race)",
+      "race_cat": "Maiden",
+      "field_size": "9",
+      "sale": "Goffs",
+      "lot": "157",
+      "overall": "25.12",
+      "overall_rank": "15",
+      "day": "tomorrow",
+      "match_type": "sire+dam+year"
+    },
+    {
+      "horse": "Striding",
+      "sire": "Minzaal",
+      "dam": "Freedom March",
+      "foaling_year": 2024,
+      "course": "Wolverhampton (AW)",
+      "off_time": "6:00",
+      "off_dt": "2026-11-03T18:00:00+00:00",
+      "region": "GB",
+      "race_name": "All Weather Championship Is Back EBF Maiden Stakes (GBB Race)",
+      "race_cat": "Maiden",
+      "field_size": "9",
+      "sale": "Arqana",
+      "lot": "6",
+      "overall": "25.29",
+      "overall_rank": "42",
+      "day": "tomorrow",
+      "match_type": "sire+dam+year"
+    },
+    {
+      "horse": "Casting Coach",
+      "sire": "Havana Grey",
+      "dam": "Flippa The Strippa",
+      "foaling_year": 2024,
+      "course": "Wolverhampton (AW)",
+      "off_time": "6:00",
+      "off_dt": "2026-11-03T18:00:00+00:00",
+      "region": "GB",
+      "race_name": "All Weather Championship Is Back EBF Maiden Stakes (GBB Race)",
+      "race_cat": "Maiden",
+      "field_size": "9",
+      "sale": "Arqana",
+      "lot": "4",
+      "overall": "26.26",
+      "overall_rank": "138",
+      "day": "tomorrow",
+      "match_type": "sire+dam+year"
+    },
+    {
+      "horse": "Midnight Empress",
+      "sire": "Mehmas",
+      "dam": "Star Empress",
+      "foaling_year": 2024,
+      "course": "Wolverhampton (AW)",
+      "off_time": "6:00",
+      "off_dt": "2026-11-03T18:00:00+00:00",
+      "region": "GB",
+      "race_name": "All Weather Championship Is Back EBF Maiden Stakes (GBB Race)",
+      "race_cat": "Maiden",
+      "field_size": "9",
+      "sale": "Goffs",
+      "lot": "38",
+      "overall": "25.90",
+      "overall_rank": "120",
       "day": "tomorrow",
       "match_type": "sire+dam+year"
     }
