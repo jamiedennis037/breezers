@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-07T11:34:31.273157+00:00",
-  "match_count": 8,
+  "updated_at": "2026-11-07T16:10:22.903516+00:00",
+  "match_count": 7,
   "matches": [
     {
       "horse": "Al Mhalhel",
@@ -37,25 +37,6 @@
       "lot": "221",
       "overall": "25.73",
       "overall_rank": "97",
-      "day": "today",
-      "match_type": "sire+dam+year"
-    },
-    {
-      "horse": "Virago Parvenue",
-      "sire": "Starman",
-      "dam": "Mountain Dreams",
-      "foaling_year": 2024,
-      "course": "Doncaster",
-      "off_time": "1:00",
-      "off_dt": "2026-11-07T13:00:00+00:00",
-      "region": "GB",
-      "race_name": "Virgin Bet Cock O'The North EBF Maiden Stakes (GBB Race)",
-      "race_cat": "Maiden",
-      "field_size": "7",
-      "sale": "Craven",
-      "lot": "56",
-      "overall": "4.37",
-      "overall_rank": "69",
       "day": "today",
       "match_type": "sire+dam+year"
     },
