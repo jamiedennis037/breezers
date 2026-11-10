@@ -1,5 +1,63 @@
 {
-  "updated_at": "2026-11-09T20:31:14.376264+00:00",
-  "match_count": 0,
-  "matches": []
+  "updated_at": "2026-11-10T13:18:37.287801+00:00",
+  "match_count": 3,
+  "matches": [
+    {
+      "horse": "American Cowboy",
+      "sire": "Volatile",
+      "dam": "Tetragonal",
+      "foaling_year": 2024,
+      "course": "Dundalk (AW)",
+      "off_time": "4:32",
+      "off_dt": "2026-11-11T16:32:00+00:00",
+      "region": "IRE",
+      "race_name": "View Restaurant At Dundalk Stadium Median Auction Maiden",
+      "race_cat": "Maiden",
+      "field_size": "14",
+      "sale": "Tatts Ireland",
+      "lot": "157",
+      "overall": "26.55",
+      "overall_rank": "209",
+      "day": "tomorrow",
+      "match_type": "sire+dam+year"
+    },
+    {
+      "horse": "Sake Nights",
+      "sire": "Ulysses",
+      "dam": "Exceptional",
+      "foaling_year": 2024,
+      "course": "Dundalk (AW)",
+      "off_time": "4:32",
+      "off_dt": "2026-11-11T16:32:00+00:00",
+      "region": "IRE",
+      "race_name": "View Restaurant At Dundalk Stadium Median Auction Maiden",
+      "race_cat": "Maiden",
+      "field_size": "14",
+      "sale": "Craven",
+      "lot": "182",
+      "overall": "4.16",
+      "overall_rank": "63",
+      "day": "tomorrow",
+      "match_type": "sire+dam+year"
+    },
+    {
+      "horse": "Pennsylvania Ave",
+      "sire": "James Garfield",
+      "dam": "Clarentine",
+      "foaling_year": 2024,
+      "course": "Dundalk (AW)",
+      "off_time": "4:32",
+      "off_dt": "2026-11-11T16:32:00+00:00",
+      "region": "IRE",
+      "race_name": "View Restaurant At Dundalk Stadium Median Auction Maiden",
+      "race_cat": "Maiden",
+      "field_size": "14",
+      "sale": "Tatts Guineas",
+      "lot": "341",
+      "overall": "27.01",
+      "overall_rank": "48",
+      "day": "tomorrow",
+      "match_type": "sire+dam+year"
+    }
+  ]
 }
