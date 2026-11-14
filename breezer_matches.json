@@ -1,25 +1,5 @@
 {
-  "updated_at": "2026-11-13T17:33:49.622428+00:00",
-  "match_count": 1,
-  "matches": [
-    {
-      "horse": "Sonny Hayes",
-      "sire": "Blue Point",
-      "dam": "Jeeds Legacy",
-      "foaling_year": 2024,
-      "course": "Dundalk (AW)",
-      "off_time": "5:30",
-      "off_dt": "2026-11-13T17:30:00+00:00",
-      "region": "IRE",
-      "race_name": "Irish Stallion Farms EBF Race",
-      "race_cat": "Other",
-      "field_size": "11",
-      "sale": "Craven",
-      "lot": "24",
-      "overall": "4.34",
-      "overall_rank": "116",
-      "day": "today",
-      "match_type": "sire+dam+year"
-    }
-  ]
+  "updated_at": "2026-11-14T11:57:58.031501+00:00",
+  "match_count": 0,
+  "matches": []
 }
