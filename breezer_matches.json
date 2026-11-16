@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-15T16:51:34.974883+00:00",
-  "match_count": 5,
+  "updated_at": "2026-11-16T13:25:46.551092+00:00",
+  "match_count": 6,
   "matches": [
     {
       "horse": "Roosike",
@@ -18,7 +18,7 @@
       "lot": "26",
       "overall": "4.31",
       "overall_rank": "38",
-      "day": "tomorrow",
+      "day": "today",
       "match_type": "sire+dam+year"
     },
     {
@@ -37,7 +37,7 @@
       "lot": "1",
       "overall": "4.25",
       "overall_rank": "58",
-      "day": "tomorrow",
+      "day": "today",
       "match_type": "sire+dam+year"
     },
     {
@@ -56,7 +56,7 @@
       "lot": "62",
       "overall": "26.04",
       "overall_rank": "121",
-      "day": "tomorrow",
+      "day": "today",
       "match_type": "sire+dam+year"
     },
     {
@@ -75,7 +75,7 @@
       "lot": "185",
       "overall": "26.00",
       "overall_rank": "115",
-      "day": "tomorrow",
+      "day": "today",
       "match_type": "sire+dam+year"
     },
     {
@@ -94,6 +94,25 @@
       "lot": "124",
       "overall": "26.65",
       "overall_rank": "157",
+      "day": "today",
+      "match_type": "sire+dam+year"
+    },
+    {
+      "horse": "Hayate",
+      "sire": "Mehmas",
+      "dam": "Saccharo",
+      "foaling_year": 2024,
+      "course": "Southwell (AW)",
+      "off_time": "8:00",
+      "off_dt": "2026-11-17T20:00:00+00:00",
+      "region": "GB",
+      "race_name": "ARC All Weather Bonus Is Back Novice Stakes (Rider Restricted Race) (GBB Race)",
+      "race_cat": "Novice",
+      "field_size": "7",
+      "sale": "Craven",
+      "lot": "90",
+      "overall": "4.16",
+      "overall_rank": "16",
       "day": "tomorrow",
       "match_type": "sire+dam+year"
     }
